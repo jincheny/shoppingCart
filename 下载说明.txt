@@ -1,0 +1,5 @@
+项目名称：购物车小练习
+请 npm i
+下载所有package.json中所有的依赖
+后台服务器启动：npm start
+前台服务器启动：npm run serve

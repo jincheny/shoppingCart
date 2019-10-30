@@ -1,0 +1,17 @@
+{
+  "name": "shopping-cart-backend",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "set PORT=3000 && nodemon server.js"
+  },
+  "keywords": [
+    "shopping"
+  ],
+  "author": "ChenLianwei",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

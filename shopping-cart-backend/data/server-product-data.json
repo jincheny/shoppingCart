@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "卫龙全家桶",
+    "description": "辣条界的扛把子。",
+    "price": 19.99
+  },
+  {
+    "id": 2,
+    "title": "旺旺大礼包",
+    "description": "你旺，我旺，大家旺。",
+    "price": 29.99
+  },
+  {
+    "id": 3,
+    "title": "可口可乐",
+    "description": "肥宅快乐水。",
+    "price": 3.00
+  },
+  {
+    "id": 4,
+    "title": "老北京方便面",
+    "description": "可煮，可焖，可干吃。",
+    "price": 1.00
+  },
+  {
+    "id": 5,
+    "title": "泡椒凤爪",
+    "description": "执子之手，与子偕老。",
+    "price": 1.50
+  }
+]
